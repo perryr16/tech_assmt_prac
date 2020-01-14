@@ -1,0 +1,22 @@
+Class: Painting
+
+Attributes:
+--
+subject (string)
+frame (boolean)
+frame_type (string)
+covered (boolean)
+width (float)
+height (float)
+hanger_type (string)
+objects_in_painting (array)
+
+Methods:
+--
+add_frame: frame = true
+remove_frame: frame = false
+wood_frame: frame_type = 'wood'
+add_glass: covered = true
+surface_area = width * height
+add_wire_hanger: hanger_type = 'wire hanger'
+paint_dog: adds dog to end of objects_in_painting array
