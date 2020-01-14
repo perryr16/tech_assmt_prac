@@ -1,0 +1,22 @@
+Instance/Object: Alaska Map
+
+
+--
+subject: 'Alaska map'
+frame: true
+frame_type: 'wood'
+covered: false
+width: 20.0
+height: 10.0
+hanger_type: 'wire'
+objects_in_painting: ['water', 'mountains', 'roads']
+
+Methods:
+--
+add_frame: frame = true
+remove_frame: frame = false
+wood_frame: frame_type = 'wood'
+add_glass: covered = false
+surface area: 20.0 * 10.0 = 200.0
+add_wire_hanger: hanger_type = 'wire'
+paint_dog: ['water', 'mountains', 'roads', 'dog']
