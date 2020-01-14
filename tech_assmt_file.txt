@@ -1,0 +1,28 @@
+Camping
+--------
+1. unload the car
+  1.1 park the car
+    1.1.1 find a level parking spot
+    1.1.2 turn the car off
+    1.1.3 put the ebrake on
+  1.2 remove camping gear from the car
+    1.2.1 create pile of tent gear
+    1.2.2 create pile of cook waear
+2. set up the tent
+  2.1 find level ground
+    2.1.1 walk around
+    2.1.2 get on hands and knees and asses the ground
+  2.2 unpack tent
+    2.2.1 lay tent on ground
+    2.2.2 lay tent poles on ground
+  2.3 setup tent
+    2.3.1 assemble tent poles
+      2.3.1.1 put male pole into female sleeve
+    2.3.2 put poles through tent loops
+3. make the campfire
+  3.1 locate fire ring
+  3.2 collect firewood
+    3.2.1 collect large
+    3.2.2 collect kindling
+    3.2.3 collect paper
+  3.3 light fire
